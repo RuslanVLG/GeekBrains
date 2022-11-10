@@ -1,0 +1,15 @@
+C:\Users\Teranova\Desktop\ProgrammingBaseSeminar\Seminar_01\consoleapp_4\bin\Debug\net6.0\consoleapp_4.exe
+C:\Users\Teranova\Desktop\ProgrammingBaseSeminar\Seminar_01\consoleapp_4\bin\Debug\net6.0\consoleapp_4.deps.json
+C:\Users\Teranova\Desktop\ProgrammingBaseSeminar\Seminar_01\consoleapp_4\bin\Debug\net6.0\consoleapp_4.runtimeconfig.json
+C:\Users\Teranova\Desktop\ProgrammingBaseSeminar\Seminar_01\consoleapp_4\bin\Debug\net6.0\consoleapp_4.dll
+C:\Users\Teranova\Desktop\ProgrammingBaseSeminar\Seminar_01\consoleapp_4\bin\Debug\net6.0\consoleapp_4.pdb
+C:\Users\Teranova\Desktop\ProgrammingBaseSeminar\Seminar_01\consoleapp_4\obj\Debug\net6.0\consoleapp_4.csproj.AssemblyReference.cache
+C:\Users\Teranova\Desktop\ProgrammingBaseSeminar\Seminar_01\consoleapp_4\obj\Debug\net6.0\consoleapp_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Teranova\Desktop\ProgrammingBaseSeminar\Seminar_01\consoleapp_4\obj\Debug\net6.0\consoleapp_4.AssemblyInfoInputs.cache
+C:\Users\Teranova\Desktop\ProgrammingBaseSeminar\Seminar_01\consoleapp_4\obj\Debug\net6.0\consoleapp_4.AssemblyInfo.cs
+C:\Users\Teranova\Desktop\ProgrammingBaseSeminar\Seminar_01\consoleapp_4\obj\Debug\net6.0\consoleapp_4.csproj.CoreCompileInputs.cache
+C:\Users\Teranova\Desktop\ProgrammingBaseSeminar\Seminar_01\consoleapp_4\obj\Debug\net6.0\consoleapp_4.dll
+C:\Users\Teranova\Desktop\ProgrammingBaseSeminar\Seminar_01\consoleapp_4\obj\Debug\net6.0\refint\consoleapp_4.dll
+C:\Users\Teranova\Desktop\ProgrammingBaseSeminar\Seminar_01\consoleapp_4\obj\Debug\net6.0\consoleapp_4.pdb
+C:\Users\Teranova\Desktop\ProgrammingBaseSeminar\Seminar_01\consoleapp_4\obj\Debug\net6.0\consoleapp_4.genruntimeconfig.cache
+C:\Users\Teranova\Desktop\ProgrammingBaseSeminar\Seminar_01\consoleapp_4\obj\Debug\net6.0\ref\consoleapp_4.dll
