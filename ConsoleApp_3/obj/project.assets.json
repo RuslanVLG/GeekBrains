@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Teranova\\Desktop\\ProgrammingBaseSeminar\\Seminar_01\\ConsoleApp_3\\ConsoleApp_3\\ConsoleApp_3\\ConsoleApp_3.csproj",
+      "projectUniqueName": "C:\\Users\\Teranova\\Desktop\\ProgrammingBaseSeminar\\Seminar_01\\ConsoleApp_3\\ConsoleApp_3.csproj",
       "projectName": "ConsoleApp_3",
-      "projectPath": "C:\\Users\\Teranova\\Desktop\\ProgrammingBaseSeminar\\Seminar_01\\ConsoleApp_3\\ConsoleApp_3\\ConsoleApp_3\\ConsoleApp_3.csproj",
+      "projectPath": "C:\\Users\\Teranova\\Desktop\\ProgrammingBaseSeminar\\Seminar_01\\ConsoleApp_3\\ConsoleApp_3.csproj",
       "packagesPath": "C:\\Users\\Teranova\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Teranova\\Desktop\\ProgrammingBaseSeminar\\Seminar_01\\ConsoleApp_3\\ConsoleApp_3\\ConsoleApp_3\\obj\\",
+      "outputPath": "C:\\Users\\Teranova\\Desktop\\ProgrammingBaseSeminar\\Seminar_01\\ConsoleApp_3\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
