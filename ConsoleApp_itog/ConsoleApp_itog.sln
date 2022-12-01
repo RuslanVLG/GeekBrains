@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp_itog", "ConsoleApp_itog.csproj", "{5174133C-2D1B-4694-B11F-5822299BEFEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5174133C-2D1B-4694-B11F-5822299BEFEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5174133C-2D1B-4694-B11F-5822299BEFEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5174133C-2D1B-4694-B11F-5822299BEFEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5174133C-2D1B-4694-B11F-5822299BEFEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE9CDDAE-3E55-489C-A8A8-49EF4F22D70E}
+	EndGlobalSection
+EndGlobal

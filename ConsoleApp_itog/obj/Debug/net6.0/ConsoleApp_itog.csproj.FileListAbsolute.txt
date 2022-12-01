@@ -1,0 +1,15 @@
+C:\Users\Teranova\Desktop\ProgrammingBaseSeminar\Seminar_01\ConsoleApp_itog\bin\Debug\net6.0\ConsoleApp_itog.exe
+C:\Users\Teranova\Desktop\ProgrammingBaseSeminar\Seminar_01\ConsoleApp_itog\bin\Debug\net6.0\ConsoleApp_itog.deps.json
+C:\Users\Teranova\Desktop\ProgrammingBaseSeminar\Seminar_01\ConsoleApp_itog\bin\Debug\net6.0\ConsoleApp_itog.runtimeconfig.json
+C:\Users\Teranova\Desktop\ProgrammingBaseSeminar\Seminar_01\ConsoleApp_itog\bin\Debug\net6.0\ConsoleApp_itog.dll
+C:\Users\Teranova\Desktop\ProgrammingBaseSeminar\Seminar_01\ConsoleApp_itog\bin\Debug\net6.0\ConsoleApp_itog.pdb
+C:\Users\Teranova\Desktop\ProgrammingBaseSeminar\Seminar_01\ConsoleApp_itog\obj\Debug\net6.0\ConsoleApp_itog.csproj.AssemblyReference.cache
+C:\Users\Teranova\Desktop\ProgrammingBaseSeminar\Seminar_01\ConsoleApp_itog\obj\Debug\net6.0\ConsoleApp_itog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Teranova\Desktop\ProgrammingBaseSeminar\Seminar_01\ConsoleApp_itog\obj\Debug\net6.0\ConsoleApp_itog.AssemblyInfoInputs.cache
+C:\Users\Teranova\Desktop\ProgrammingBaseSeminar\Seminar_01\ConsoleApp_itog\obj\Debug\net6.0\ConsoleApp_itog.AssemblyInfo.cs
+C:\Users\Teranova\Desktop\ProgrammingBaseSeminar\Seminar_01\ConsoleApp_itog\obj\Debug\net6.0\ConsoleApp_itog.csproj.CoreCompileInputs.cache
+C:\Users\Teranova\Desktop\ProgrammingBaseSeminar\Seminar_01\ConsoleApp_itog\obj\Debug\net6.0\ConsoleApp_itog.dll
+C:\Users\Teranova\Desktop\ProgrammingBaseSeminar\Seminar_01\ConsoleApp_itog\obj\Debug\net6.0\refint\ConsoleApp_itog.dll
+C:\Users\Teranova\Desktop\ProgrammingBaseSeminar\Seminar_01\ConsoleApp_itog\obj\Debug\net6.0\ConsoleApp_itog.pdb
+C:\Users\Teranova\Desktop\ProgrammingBaseSeminar\Seminar_01\ConsoleApp_itog\obj\Debug\net6.0\ConsoleApp_itog.genruntimeconfig.cache
+C:\Users\Teranova\Desktop\ProgrammingBaseSeminar\Seminar_01\ConsoleApp_itog\obj\Debug\net6.0\ref\ConsoleApp_itog.dll
